@@ -1,0 +1,32 @@
+body {
+    background-color:   #66ffcc ;
+  }
+h1{
+    color:#996633
+}
+textarea{
+    colour:#99ccff
+}
+
+  .button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #0066cc;
+    border: none;
+    border-radius: 15px;
+   
+  }
+  
+  .button:hover {background-color: #cc99ff}
+  
+  .button:active {
+    background-color:  #cc99ff;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
